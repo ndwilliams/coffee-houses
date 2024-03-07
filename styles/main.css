@@ -1,0 +1,17 @@
+header {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 1rem;
+}
+
+.list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.shop {
+	border: 2px dotted black;
+	padding: 0.25rem;
+	flex-basis: 25%;
+}
